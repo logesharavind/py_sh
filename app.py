@@ -10,7 +10,6 @@ from flask_cors import CORS,cross_origin
 import imutils
 import dlib
 from engineio.payload import Payload
-import mediapipe as mp
 
 
 detector = dlib.get_frontal_face_detector()
