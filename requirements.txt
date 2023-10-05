@@ -6,7 +6,6 @@ numpy
 imutils
 gunicorn
 eventlet
-mediapipe
 dlib
 pyshine
 flask_cors
