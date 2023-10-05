@@ -9,5 +9,4 @@ eventlet
 dlib
 pyshine
 flask_cors
-
-
+mediapipe
